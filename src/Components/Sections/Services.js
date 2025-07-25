@@ -7,8 +7,8 @@ const Services = () => {
       icon: <FaFileAlt className="text-2xl" />,
       title: "FBR Services",
       items: [
-        "NTN & STRN Registration (5,000 – 10,000 PKR)",
-        "Income Tax Return Filing (10,000 – 25,000 PKR)",
+        "NTN & STRN Registration",
+        "Income Tax Return Filing",
         "Salary Return & Default Surcharge Payment",
         "Filer Registration / ATL Inclusion",
         "DNFBP Registration",
